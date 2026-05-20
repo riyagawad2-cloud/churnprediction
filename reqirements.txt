@@ -2,6 +2,4 @@
 streamlit 
 pandas
 numpy 
-sklearn.model_selection  
-sklearn.preprocessing
-sklearn.ensemble 
+scikit-learn
